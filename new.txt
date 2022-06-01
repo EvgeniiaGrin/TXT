@@ -1,0 +1,4 @@
+Name: Evgeniia Grin
+Age: 40
+Pets: 0
+Future_salary: 3 000 dollars per month
